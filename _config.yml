@@ -1,0 +1,12 @@
+title: "🎮 Narcissus Valorant Turnuvası"
+description: "Resmi Kurallar Kitapçığı"
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+encoding: utf-8
+
+# GitHub Pages settings
+future: false
+show_downloads: true
